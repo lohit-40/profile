@@ -84,7 +84,7 @@ const lohit = {
 | 🛡️ **Web3 Guard** | AI-powered multi-chain smart contract auditing oracle anchored on Stellar Testnet | Next.js · FastAPI · Soroban · Gemini AI | [Live Demo](https://web3-guard-stellar-gilt.vercel.app/) |
 | 🎓 **Centurion Chain** | NFT degree certificates on Stacks (Bitcoin L2) — eliminating fraud in Indian academia | Clarity · React · Gaia Storage | [View](https://github.com/lohit-40/Centurion-Chain) |
 | 🪙 **Toknify** | Real-world asset tokenisation on Ethereum — simple, accessible, powerful | Solidity · Ethereum | [View](https://github.com/lohit-40/Toknify) |
-| 🎵 **DecentraMusic** | Decentralised music streaming platform — artists get paid fairly | Web3 · Blockchain | [View](https://github.com/lohit-40/Decentramusic) |
+| 🎵 **DecentraMusic** | Decentralized music streaming platform — artists get paid fairly | Web3 · Blockchain | [View](https://github.com/lohit-40/Decentramusic) |
 | 🌆 **ETH Mumbai Maxi** | Gamified community hub to check "Mumbai Ethereum Maxi" status & generate Bus Pass NFTs | React · Vite · Twitter API | [View](https://github.com/lohit-40/ethmumbai) |
 | 🔮 **BC Adv** | Full-stack blockchain advisory platform | Next.js · Python | [View](https://github.com/lohit-40/bc-adv-front) |
 
