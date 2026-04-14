@@ -113,10 +113,10 @@ fun_fact: I turn coffee ☕ into code
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lohit-40)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lohit-40)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lohit-mishra-840640200/)
+[![Twitter](https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/LohitMishr_a)
 [![Portfolio](https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=About.me&logoColor=white)](https://lohit-40.github.io)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohit40@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lohitmishra25@gmail.com)
 
 </div>
 
